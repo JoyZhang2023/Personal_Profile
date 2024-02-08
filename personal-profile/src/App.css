@@ -1,0 +1,19 @@
+
+p {
+  font-size: medium;
+  text-align: left;
+}
+
+h2 {
+  margin-left: 2%;
+}
+
+ul {
+  font-size: medium;
+  text-align: left;
+  margin-left: 1%;
+}
+
+.App {
+  background-color: aqua;
+}
